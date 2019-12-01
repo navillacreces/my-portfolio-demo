@@ -97,7 +97,7 @@
     
       .hero-image{
     
-        background: url("/images/macbook.jpg");
+        background: url("https://navillacreces.github.io/my-portfolio-demo/images/macbook.jpg");
         background-size: 100%;
         background-repeat: no-repeat;
         height: 200px;
